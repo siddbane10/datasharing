@@ -190,6 +190,4 @@ Contributors
 * [Nick Horton](https://www.amherst.edu/people/facstaff/nhorton) - Minor wording suggestions.
 
 EDITED
-
-FOR NEW EDITED COMMIT
-ANOTHER COMMIT
+COMMIT TRY 3
