@@ -1,6 +1,8 @@
 How to share data with a statistician
 ===========
 
+
+
 This is a guide for anyone who needs to share data with a statistician or data scientist. The target audiences I have in mind are:
 
 * Collaborators who need statisticians or data scientists to analyze data for them
@@ -55,7 +57,7 @@ If you made any modifications of the raw data it is not the raw form of the data
 as raw data is a very common way to slow down the analysis process, since the analyst will often have to do a
 forensic study of your data to figure out why the raw data looks weird. (Also imagine what would happen if new data arrived?)
 
-### The tidy data set
+### The tidy data set ##
 
 The general principles of tidy data are laid out by [Hadley Wickham](http://had.co.nz/) in [this paper](http://vita.had.co.nz/papers/tidy-data.pdf)
 and [this video](http://vimeo.com/33727555). While both the paper and the video describe tidy data using [R](http://www.r-project.org/), the principles
